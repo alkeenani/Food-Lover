@@ -6,10 +6,13 @@ modern UI design, reusable components, and smooth CSS interactions — without u
 
 ---
 
-## 🌍 Live Overview
+## 🌍 Live Demo
 
-The website represents a modern restaurant landing page featuring multiple sections commonly
-used in professional business websites, such as menus, offers, galleries, working hours, and a contact form.
+🔗 **Website URL:**
+
+```
+https://your-website-link-here.com
+```
 
 ---
 
